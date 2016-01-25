@@ -1,0 +1,4 @@
+E:\УЧЕБА\Profiler\Profiler\Profiler.Service\bin\Debug\Profiler.Service.dll
+E:\УЧЕБА\Profiler\Profiler\Profiler.Service\bin\Debug\Profiler.Service.pdb
+E:\УЧЕБА\Profiler\Profiler\Profiler.Service\obj\Debug\Profiler.Service.dll
+E:\УЧЕБА\Profiler\Profiler\Profiler.Service\obj\Debug\Profiler.Service.pdb

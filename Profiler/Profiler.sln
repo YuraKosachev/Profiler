@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profiler", "Profiler\Profiler.csproj", "{B6A1B98A-26AA-4A4A-B096-1CDDCD2E0DC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Profiler API", "Profiler API", "{7F5F17A6-FAD6-4E4B-BAAE-5E29C9E19BE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profiler.Provider", "Profiler.Provider\Profiler.Provider.csproj", "{3AA512F1-E517-4EBD-BE6C-9675BF7497F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profiler.Service", "Profiler.Service\Profiler.Service.csproj", "{63109DF6-F446-4BBB-8959-FDACD6655D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profiler.ModelService", "Profiler.ModelService\Profiler.ModelService.csproj", "{CC038308-AB06-4C63-B665-7E34C2F877FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{01F98904-D462-461B-B89A-127CCE9C8CF3}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A1B98A-26AA-4A4A-B096-1CDDCD2E0DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A1B98A-26AA-4A4A-B096-1CDDCD2E0DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A1B98A-26AA-4A4A-B096-1CDDCD2E0DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A1B98A-26AA-4A4A-B096-1CDDCD2E0DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA512F1-E517-4EBD-BE6C-9675BF7497F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA512F1-E517-4EBD-BE6C-9675BF7497F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA512F1-E517-4EBD-BE6C-9675BF7497F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA512F1-E517-4EBD-BE6C-9675BF7497F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63109DF6-F446-4BBB-8959-FDACD6655D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63109DF6-F446-4BBB-8959-FDACD6655D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63109DF6-F446-4BBB-8959-FDACD6655D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63109DF6-F446-4BBB-8959-FDACD6655D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC038308-AB06-4C63-B665-7E34C2F877FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC038308-AB06-4C63-B665-7E34C2F877FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC038308-AB06-4C63-B665-7E34C2F877FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC038308-AB06-4C63-B665-7E34C2F877FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3AA512F1-E517-4EBD-BE6C-9675BF7497F1} = {7F5F17A6-FAD6-4E4B-BAAE-5E29C9E19BE6}
+		{63109DF6-F446-4BBB-8959-FDACD6655D40} = {7F5F17A6-FAD6-4E4B-BAAE-5E29C9E19BE6}
+		{CC038308-AB06-4C63-B665-7E34C2F877FB} = {7F5F17A6-FAD6-4E4B-BAAE-5E29C9E19BE6}
+	EndGlobalSection
+EndGlobal

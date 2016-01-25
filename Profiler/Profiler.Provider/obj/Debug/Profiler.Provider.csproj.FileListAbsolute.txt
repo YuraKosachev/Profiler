@@ -1,0 +1,5 @@
+E:\УЧЕБА\Profiler\Profiler\Profiler.Provider\bin\Debug\Profiler.Provider.dll
+E:\УЧЕБА\Profiler\Profiler\Profiler.Provider\bin\Debug\Profiler.Provider.pdb
+E:\УЧЕБА\Profiler\Profiler\Profiler.Provider\obj\Debug\Profiler.Provider.csprojResolveAssemblyReference.cache
+E:\УЧЕБА\Profiler\Profiler\Profiler.Provider\obj\Debug\Profiler.Provider.dll
+E:\УЧЕБА\Profiler\Profiler\Profiler.Provider\obj\Debug\Profiler.Provider.pdb
