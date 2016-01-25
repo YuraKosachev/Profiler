@@ -2,3 +2,8 @@ E:\УЧЕБА\Profiler\Profiler\Profiler.ModelService\bin\Debug\Profiler.ModelSe
 E:\УЧЕБА\Profiler\Profiler\Profiler.ModelService\bin\Debug\Profiler.ModelService.pdb
 E:\УЧЕБА\Profiler\Profiler\Profiler.ModelService\obj\Debug\Profiler.ModelService.dll
 E:\УЧЕБА\Profiler\Profiler\Profiler.ModelService\obj\Debug\Profiler.ModelService.pdb
+E:\УЧЕБА\КУРСЫ ПАРКА ВЫСОКИХ ТЕХНОЛОГИЙ\AllProject\my GitHubProject\Profiler\Profiler\Profiler.ModelService\bin\Debug\Profiler.ModelService.dll
+E:\УЧЕБА\КУРСЫ ПАРКА ВЫСОКИХ ТЕХНОЛОГИЙ\AllProject\my GitHubProject\Profiler\Profiler\Profiler.ModelService\bin\Debug\Profiler.ModelService.pdb
+E:\УЧЕБА\КУРСЫ ПАРКА ВЫСОКИХ ТЕХНОЛОГИЙ\AllProject\my GitHubProject\Profiler\Profiler\Profiler.ModelService\obj\Debug\Profiler.ModelService.csprojResolveAssemblyReference.cache
+E:\УЧЕБА\КУРСЫ ПАРКА ВЫСОКИХ ТЕХНОЛОГИЙ\AllProject\my GitHubProject\Profiler\Profiler\Profiler.ModelService\obj\Debug\Profiler.ModelService.dll
+E:\УЧЕБА\КУРСЫ ПАРКА ВЫСОКИХ ТЕХНОЛОГИЙ\AllProject\my GitHubProject\Profiler\Profiler\Profiler.ModelService\obj\Debug\Profiler.ModelService.pdb
